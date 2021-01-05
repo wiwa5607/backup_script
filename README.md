@@ -1,0 +1,1 @@
+Very simple backup script initially written for Ubuntu, currently not working
